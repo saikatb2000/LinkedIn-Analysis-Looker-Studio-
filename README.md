@@ -171,7 +171,3 @@ The engagement rate chart shows a volatile trend with a steep decline early in t
 ## Conclusion
 
 The quarter reflects both a challenge and an opportunity. While most metrics saw a significant decline, the detailed demographic and content-level insights offer a roadmap to recover and grow LinkedIn presence. With a more focused, data-driven content strategy and better targeting, there is high potential to re-engage the current audience and attract new followers meaningfully.
-
----
-
-Let me know if you'd like a PDF version of this report or if you'd like it tailored for internal presentation slides.
